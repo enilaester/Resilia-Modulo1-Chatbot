@@ -41,8 +41,8 @@ Fique à vontade para testá-lo! Adoraríamos receber o seu feedback!
 ### :gear: <strong>Como executar</strong>
 
 
-1º Inicie o arquivo 'ProjetoM1Geral' com uma IDE de sua preferência ;
-2º Execute o arquivo, para isso procure pelo comando 'run python file' ou similar; 
+1º Inicie o arquivo 'ProjetoM1Geral' com uma IDE de sua preferência; <br/>
+2º Execute o arquivo, para isso procure pelo comando 'run python file' ou similar; <br/>
 3º A partir do terminal, interaja com o bot navegando pelos menus de atendimento.
 
 
