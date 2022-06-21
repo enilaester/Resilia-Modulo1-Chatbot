@@ -50,8 +50,8 @@ Fique à vontade para testá-lo! Adoraríamos receber o seu feedback!
 
 Os autores desse projeto são:
 
-[Aline Gomes](https://github.com/enilaester/)
-[Carol Candeias]()
-[Jaqueline Damasceno](https://github.com/jaquelinesindie/)
-[João Vitor Rosa](https://github.com/joaorosa2/)
+[Aline Gomes](https://github.com/enilaester/) <br/>
+[Carol Candeias]() <br/>
+[Jaqueline Damasceno](https://github.com/jaquelinesindie/) <br/>
+[João Vitor Rosa](https://github.com/joaorosa2/) <br/>
 [Mariana Lobão](https://github.com/MarianaLobao/)
