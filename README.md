@@ -14,7 +14,7 @@ menu inicial, menus secundários e respostas finais.
 
 O projeto foi desenvolvido com a linguagem Python apresentada no módulo inicial do curso de Análise de Dados da [Resilia Educação](https://www.resilia.com.br/). Diante disso, este programa que simula um Chatbot para uma Clínica Veterinária em que há um bloco inicial para identificação do cliente com seu Nome, CPF (com uma função 'DEF' que permite inserir apenas o tamanho correto de 11 caracteres com o 'LEN') e E-mail.
 
-Logo, é direcionado a um menu primário em uma estrutura de repetição 'WHILE' que imprime os índices a serem selecionados que são atribuídos como condições 'IF', 'ELIF' e 'ELSE'. Assim que for selecionado um dos índices o usuário é impulsionado a outro menu secundário com a mesma estrutura só que assim que for acessada a condição correspondente, poderá optar por voltar ao menu primário ou sair do programa (que ocorre por uma função 'DEF' recursiva criada para esse fim.)
+Logo, é direcionado a um menu primário em uma estrutura de repetição 'WHILE' que imprime os índices a serem selecionados que são atribuídos como condições 'IF', 'ELIF' e 'ELSE'. Assim que for selecionado um dos índices o usuário é impulsionado a outro menu secundário com a mesma estrutura só que assim que for acessada a condição correspondente, poderá optar por voltar ao menu primário ou sair do programa (que ocorre por uma função 'DEF' recursiva criada para esse fim).
 
 ### 🚀 <strong>Tecnologias</strong>
 
