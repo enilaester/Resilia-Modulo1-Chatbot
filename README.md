@@ -46,7 +46,7 @@ Fique à vontade para testá-lo! Adoraríamos receber o seu feedback!
 3º A partir do terminal, interaja com o bot navegando pelos menus de atendimento.
 
 
-### :busts_in_silhouette: <strong> Grupo </strong>
+### :busts_in_silhouette: <strong> Conheça o squad </strong>
 
 Os autores desse projeto são:
 
