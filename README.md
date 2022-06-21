@@ -38,7 +38,7 @@ Documentação:https://docs.github.com/pt/repositories/creating-and-managing-rep
 
 Fique à vontade para testá-lo! Adoraríamos receber o seu feedback!
 
-### 🔎 <strong>Como executar</strong>
+### :gear: <strong>Como executar</strong>
 
 
 1º Inicie o arquivo 'ProjetoM1Geral' com uma IDE de sua preferência ;
@@ -46,7 +46,7 @@ Fique à vontade para testá-lo! Adoraríamos receber o seu feedback!
 3º A partir do terminal, interaja com o bot navegando pelos menus de atendimento.
 
 
-### 🔎 <strong> Grupo </strong>
+### :busts_in_silhouette: <strong> Grupo </strong>
 
 Os autores desse projeto são:
 
