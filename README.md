@@ -46,7 +46,7 @@ https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloni
 Os autores desse projeto são:
 
 👩‍💻[Aline Gomes](https://github.com/enilaester/) <br/>
-👩‍💻[Carol Candeias]() <br/>
+👩‍💻[Carol Candeias](https://github.com/carolcandeias/) <br/>
 👩‍💻[Jaqueline Damasceno](https://github.com/jaquelinesindie/) <br/>
 👨‍💻[João Vitor Rosa](https://github.com/joaorosa2/) <br/>
 👩‍💻[Mariana Lobão](https://github.com/MarianaLobao/)
