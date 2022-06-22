@@ -9,7 +9,8 @@
 
 Foi desenvolvido um chatbot para uma clínica veterinária fictícia, cujo objetivo é a interação com o usuário. Nele há três níveis de atendimento: menu inicial, menus secundários e respostas finais, permitindo que o usuário navegue pelo sistema conforme sua necessidade.
 
-O código foi desenvolvido com a linguagem Python apresentada no módulo inicial do curso de Análise de Dados da [Resilia Educação](https://www.resilia.com.br/).O programa inicia com um bloco para identificação do cliente a partir do seu  "Nome", "CPF" (com uma função 'DEF' que permite inserir apenas o tamanho correto de 11 caracteres utilizando uma segunda função 'LEN') e "E-mail" (acrescentar explicação).
+O código foi desenvolvido com a linguagem Python apresentada no módulo inicial do curso de Análise de Dados da [Resilia Educação](https://www.resilia.com.br/). 
+O programa inicia com um bloco para identificação do cliente a partir do seu  "Nome", "CPF" (com uma função 'DEF' que permite inserir apenas o tamanho correto de 11 caracteres a partirsegunda função 'LEN') e "E-mail" (acrescentar explicação).
 
 Em seguida, o usuário é direcionado ao menu primário no qual uma estrutura de repetição 'WHILE' imprime os índices a serem selecionados - atribuídos como condições 'IF', 'ELIF' e 'ELSE'. Assim que for selecionado um dos índices, o usuário é impulsionado a um dos menus secundários com a mesma estrutura do menu inicial. Uma vez que o usuário selecione uma opção, poderá optar por voltar ao menu primário ou sair do programa (que ocorre por uma função 'DEF' recursiva criada para esse fim).
 
@@ -28,7 +29,7 @@ Para isso, o primeiro passo é clonar o repositório para seu local (computador)
 git clone https://github.com/enilaester/Resilia-Modulo1-Chatbot.git
 ```
 
-Em caso de dúvidas, acesse a documentação:
+Em caso de dúvidas, verifique a documentação:
 ```shell
 https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository
 ```
