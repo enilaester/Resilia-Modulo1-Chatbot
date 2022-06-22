@@ -1,4 +1,4 @@
-<h1 align="center">Resília - Projeto Final - Módulo 1 </h1>
+<h1 align="center">Resilia - Projeto Final - Módulo 1 </h1>
 
 
 <p align="center">
@@ -7,39 +7,33 @@
 
 ### 📌 <strong>Sobre o projeto</strong>
 
-Foi desenvolvido um chatbot para uma clínica veterinária, cujo objetivo é a interação com o usuário. No chatbot há opções de atendimento permitindo que o usuário avance dentro do sistema conforme sua necessidade.
+Foi desenvolvido um chatbot para uma clínica veterinária fictícia, cujo objetivo é a interação com o usuário. Nele há três níveis de atendimento: menu inicial, menus secundários e respostas finais, permitindo que o usuário navegue pelo sistema conforme sua necessidade.
 
-O chatbot consiste em três níveis de atendimento:
-menu inicial, menus secundários e respostas finais.
+O código foi desenvolvido com a linguagem Python apresentada no módulo inicial do curso de Análise de Dados da [Resilia Educação](https://www.resilia.com.br/).O programa inicia com um bloco para identificação do cliente a partir do seu  "Nome", "CPF" (com uma função 'DEF' que permite inserir apenas o tamanho correto de 11 caracteres utilizando uma segunda função 'LEN') e "E-mail" (acrescentar explicação).
 
-O projeto foi desenvolvido com a linguagem Python apresentada no módulo inicial do curso de Análise de Dados da [Resilia Educação](https://www.resilia.com.br/). Diante disso, este programa que simula um Chatbot para uma Clínica Veterinária em que há um bloco inicial para identificação do cliente com seu Nome, CPF (com uma função 'DEF' que permite inserir apenas o tamanho correto de 11 caracteres com o 'LEN') e E-mail.
+Em seguida, o usuário é direcionado ao menu primário no qual uma estrutura de repetição 'WHILE' imprime os índices a serem selecionados - atribuídos como condições 'IF', 'ELIF' e 'ELSE'. Assim que for selecionado um dos índices, o usuário é impulsionado a um dos menus secundários com a mesma estrutura do menu inicial. Uma vez que o usuário selecione uma opção, poderá optar por voltar ao menu primário ou sair do programa (que ocorre por uma função 'DEF' recursiva criada para esse fim).
 
-Logo, é direcionado a um menu primário em uma estrutura de repetição 'WHILE' que imprime os índices a serem selecionados que são atribuídos como condições 'IF', 'ELIF' e 'ELSE'. Assim que for selecionado um dos índices o usuário é impulsionado a outro menu secundário com a mesma estrutura só que assim que for acessada a condição correspondente, poderá optar por voltar ao menu primário ou sair do programa (que ocorre por uma função 'DEF' recursiva criada para esse fim).
-
-### 🚀 <strong>Tecnologias</strong>
+### 🚀 <strong>Tecnologias utilizadas </strong>
 
 
 - [Python](https://www.python.org/)
 - [VSCode](https://code.visualstudio.com/)
 
-### 🔎 <strong>Como acessar</strong>
+### 🗺️ <strong>Como acessar</strong>
 
-
-Primeiramente deve-se clonar o repositório para sua máquina, com o seguinte comando no Git:
+Nos sentiríamos honrados se você testasse o nosso chatbot e adoraríamos receber o seu feedback!
+Para isso, o primeiro passo é clonar o repositório para seu local (computador), usando o seguinte comando no Git:
 
 ```shell
 git clone https://github.com/enilaester/Resilia-Modulo1-Chatbot.git
 ```
 
-Em caso de dúvidas, acesse:
+Em caso de dúvidas, acesse a documentação:
 ```shell
-Documentação:https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository
+https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository
 ```
 
-Fique à vontade para testá-lo! Adoraríamos receber o seu feedback!
-
 ### :gear: <strong>Como executar</strong>
-
 
 1º Inicie o arquivo 'ProjetoM1Geral' com uma IDE de sua preferência; <br/>
 2º Execute o arquivo, para isso procure pelo comando 'run python file' ou similar; <br/>
@@ -50,8 +44,8 @@ Fique à vontade para testá-lo! Adoraríamos receber o seu feedback!
 
 Os autores desse projeto são:
 
-[Aline Gomes](https://github.com/enilaester/) <br/>
-[Carol Candeias]() <br/>
-[Jaqueline Damasceno](https://github.com/jaquelinesindie/) <br/>
-[João Vitor Rosa](https://github.com/joaorosa2/) <br/>
-[Mariana Lobão](https://github.com/MarianaLobao/)
+👩‍💻[Aline Gomes](https://github.com/enilaester/) <br/>
+👩‍💻[Carol Candeias]() <br/>
+👩‍💻[Jaqueline Damasceno](https://github.com/jaquelinesindie/) <br/>
+👨‍💻[João Vitor Rosa](https://github.com/joaorosa2/) <br/>
+👩‍💻[Mariana Lobão](https://github.com/MarianaLobao/)
