@@ -21,7 +21,7 @@ def validaCPF(cpf):  # Função que lê o tanto de carcteres digitados e limita-
 
 
 def retornarOuSair():  # Função que dá a opção de retornar nas respostas das condicionais do menu 2
-    global condicao1
+    global condicao1 
     global condicao2
     print('\nO que deseja fazer agora?')
     print('4 - Retornar ao início')
