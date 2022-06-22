@@ -52,7 +52,7 @@ menu2 = 0  # Variável de atribuição do menu 2
 # ----------------------------- IDENTIFICAÇÃO DO USUÁRIO ---------------------------------
 
 print("Seja bem-vindo ao atendimento do Santuário dos Animais!")
-nome = input('\nPara começar, qual o seu nome?: ')
+nome = input('\nPara começar, qual o seu nome? ')
 cpf = input(
     f'Obrigado, {nome}! Por favor, digite agora o seu CPF (sem pontos ou traços): ')
 cpf = validaCPF(cpf)
